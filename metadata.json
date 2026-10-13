@@ -1,0 +1,6 @@
+{
+  "name": "Community Emergency Response Platform",
+  "description": "Web-based community emergency response platform with Django REST API, PostgreSQL, real-time SOS routing, guardian escalation, and responder coordination.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
